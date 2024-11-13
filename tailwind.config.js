@@ -10,7 +10,7 @@ export default {
         poppins: ['Poppins', 'sans-serif'],
         roboto: ['Roboto', 'sans-serif'],
         raleway: ['Raleway', 'monospace'],
-        bebasNeue: ['Bebas Neue', 'sans-serif'],
+        bebasNeue: ['Bebas-Neue', 'sans-serif'],
       },
       colors: {
         button: '#FEBF00',       // Primary button color

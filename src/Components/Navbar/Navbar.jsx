@@ -3,7 +3,7 @@ import React from 'react';
 const Navbar = () => {
     return (
         <>
-            <div className="navbar  fixed top-0 left-0 right-0 max-w-[1320px] mx-auto py-4">
+            <div className="navbar  fixed top-0 left-0 right-0 h-20 max-w-[1320px] mx-auto ">
 
                 <div className="navbar-start">
                     <div className="dropdown">
